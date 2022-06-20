@@ -41,9 +41,14 @@ Note: The book resources can be found on [Dalab Seafile](http://dalab.se.sjtu.ed
 Materials
 - Fluid
   - Fluid Simulation for Computer Graphics (2nd Edition)
+    - All you need to know about the Eulerian fluid simulation.
   - Fluid Engine Development
+    - How to write a fluid simulation with C++
 - Rigid body
-  - [Stable, Robust, and Versatile Multibody Dynamics Animation](http://image.diku.dk/kenny/download/erleben.05.thesis.pdf)
+  - [2001 Physically Based Modeling: Principles and Practice](http://www.cs.cmu.edu/~baraff/sigcourse/)
+    - Basics of the rigid body simulation
+  - [2005 Stable, Robust, and Versatile Multibody Dynamics Animation](http://image.diku.dk/kenny/download/erleben.05.thesis.pdf)
+    - When there is multiple rigid body and complex joints between them
 - Cloth
   - Cloth Simulation for Computer Graphics
 - Collision
@@ -59,7 +64,9 @@ Methods
 - SPH
   - [A Survey on SPH Methods in Computer Graphics](https://animation.rwth-aachen.de/publication/0577/)
   - [2019 Smoothed Particle Hydrodynamics Techniques for the Physics Based Simulation of Fluids and Solids](https://interactivecomputergraphics.github.io/SPH-Tutorial/)
-
+- PBD
+  - [A Survey on Position Based Dynamics](http://mmacklin.com/2017-EG-CourseNotes.pdf)
+    - Basics of PBD and all materials simulated with PBD
 Numerical Solvers
 - CG
   - [An Introduction to the Conjugate Gradient Method Without the Agonizing Pain](https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf)
@@ -79,11 +86,19 @@ Numerical Solvers
 - Fluid simulation
   - Fluid Simulation for Computer Graphics (2nd Edition)
     - Basics of fluid simulation, Sec 1,2,3,5
+  - [An Introduction to the Conjugate Gradient Method Without the Agonizing Pain](https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf)
+    - Conjugate Gradient is a common linear solver used in fluid simulation.
+  - TODO: a code repo
+
 - Position based dynamics
-  - A Survey on Position Based Dynamics
-    - 
+  - [A Survey on Position Based Dynamics](http://mmacklin.com/2017-EG-CourseNotes.pdf)
+    - Basics of PBD, Sec 1,2,3,4-4.22,5(The constraints you need)
+  - [PositionBasedDynamics](https://github.com/InteractiveComputerGraphics/PositionBasedDynamics)
+  - [Nvidia Flex](https://developer.nvidia.com/flex)
+
+- Rigid body
+  - [Stable, Robust, and Versatile Multibody Dynamics Animation](http://image.diku.dk/kenny/download/erleben.05.thesis.pdf)
+    - Basics of Rigid body, 
 
 ### Reference
 - http://www.physicsbasedanimation.com/
-- https://github.com/bighuang624/AI-research-tools
-- 
