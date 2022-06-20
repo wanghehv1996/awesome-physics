@@ -2,7 +2,9 @@
 
 ### Materials
 - Rigid body
-  - Articulate
+  - Rigid body
+  - Joint
+  - Fracture
 - Soft body
   - Cloth
   - Deformable
@@ -22,7 +24,9 @@
 - ...
 
 ### Numerical Solvers
-- Conjugate Gradient
+- Conjugate Gradient (CG) / Preconditioned Conjugate Gradient (CG)
+- Multi-grid (MG)
+- ...
 
 ### Book/Course note/Survey
 
@@ -34,7 +38,7 @@ Note: The book resources can be found on [Dalab Seafile](http://dalab.se.sjtu.ed
     - [Video from SIGGRAPH 2019](https://www.youtube.com/watch?v=b_WJ-HwalwU)
   - [Ten minute physics](https://matthias-research.github.io/pages/tenMinutePhysics/index.html)
 
-----
+Materials
 - Fluid
   - Fluid Simulation for Computer Graphics (2nd Edition)
   - Fluid Engine Development
@@ -48,7 +52,7 @@ Note: The book resources can be found on [Dalab Seafile](http://dalab.se.sjtu.ed
   - [2012 FEM Simulation of 3D Deformable Solids: A practitioner's guide to theory, discretization and model reduction](https://viterbi-web.usc.edu/~jbarbic/femdefo/)
   - [2020 Dynamic Deformables: Implementation and Production Practicalities](http://www.tkim.graphics/DYNAMIC_DEFORMABLES/)
 
-----
+Methods
 - MPM
   - [2019 On Hybrid Lagrangian-Eulerian Simulation Methods: Practical Notes and High-Performance Aspects](https://yuanming.taichi.graphics/publication/2019-mpm-tutorial/)
   - [2016 The Material Point Method For Simulating Continuum Materials](https://www.math.ucla.edu/~cffjiang/research/mpmcourse/mpmcourse.pdf)
@@ -56,8 +60,8 @@ Note: The book resources can be found on [Dalab Seafile](http://dalab.se.sjtu.ed
   - [A Survey on SPH Methods in Computer Graphics](https://animation.rwth-aachen.de/publication/0577/)
   - [2019 Smoothed Particle Hydrodynamics Techniques for the Physics Based Simulation of Fluids and Solids](https://interactivecomputergraphics.github.io/SPH-Tutorial/)
 
-----
-- Numerical solver
+Numerical Solvers
+- CG
   - [An Introduction to the Conjugate Gradient Method Without the Agonizing Pain](https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf)
 
 
