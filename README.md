@@ -98,10 +98,10 @@ Numerical Solvers
     - Basics of PBD, Sec 1,2,3,4-4.22,5(The constraints you need)
   - [PositionBasedDynamics](https://github.com/InteractiveComputerGraphics/PositionBasedDynamics)
   - [Nvidia Flex](https://developer.nvidia.com/flex)
-- Screen space rendering
+- Screen space fluid rendering
   - [Screen Space Fluid Rendering with Curvature Flow](https://www.cs.rug.nl/~roe/publications/fluidcurvature.pdf)
   - [Narrow-Band Screen-Space Fluid Rendering](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14510)
-- Rigid body
+- Rigid body simulation
   - [2001 Physically Based Modeling: Principles and Practice](http://www.cs.cmu.edu/~baraff/sigcourse/)
   - [Stable, Robust, and Versatile Multibody Dynamics Animation](http://image.diku.dk/kenny/download/erleben.05.thesis.pdf)
     - Basics of Rigid body simulation, Sec 2, 4
