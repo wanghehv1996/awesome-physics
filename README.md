@@ -100,6 +100,7 @@ Numerical Solvers
   - [Nvidia Flex](https://developer.nvidia.com/flex)
 - Screen space fluid rendering
   - [**Screen Space Fluid Rendering with Curvature Flow**](https://www.cs.rug.nl/~roe/publications/fluidcurvature.pdf)
+  - [GDC talk](https://developer.download.nvidia.com/presentations/2010/gdc/Direct3D_Effects.pdf)
   - [Narrow-Band Screen-Space Fluid Rendering](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14510)
 - Rigid body simulation
   - [2001 Physically Based Modeling: Principles and Practice](http://www.cs.cmu.edu/~baraff/sigcourse/)
