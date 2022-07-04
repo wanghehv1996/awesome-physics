@@ -73,13 +73,17 @@ Numerical Solvers
 
 
 ### Codes
-- [Taichi]
-- [Bullet](https://github.com/bulletphysics/bullet3)
-- [SPlisHSPlasH](https://github.com/InteractiveComputerGraphics/SPlisHSPlasH)
-- [Nvidia Flex](https://developer.nvidia.com/flex)
-- [PhysIKA](https://github.com/PhysikaTeam/PhysIKA)
-- [PhiFlow](https://github.com/tum-pbs/PhiFlow)
-- [PositionBasedDynamics](https://github.com/InteractiveComputerGraphics/PositionBasedDynamics)
+- High performance computing
+  - [Taichi](https://github.com/taichi-dev/taichi)
+- Rigid body:
+  - [Bullet](https://github.com/bulletphysics/bullet3)
+- Fluid
+  - [SPlisHSPlasH](https://github.com/InteractiveComputerGraphics/SPlisHSPlasH)
+  - [PhysIKA](https://github.com/PhysikaTeam/PhysIKA)
+  - [PhiFlow](https://github.com/tum-pbs/PhiFlow)
+- Position based dynamics
+  - [PositionBasedDynamics](https://github.com/InteractiveComputerGraphics/PositionBasedDynamics)
+  - [Nvidia Flex](https://developer.nvidia.com/flex)
 
 
 ### For Dummies/ELI5
@@ -96,9 +100,15 @@ Numerical Solvers
   - [PositionBasedDynamics](https://github.com/InteractiveComputerGraphics/PositionBasedDynamics)
   - [Nvidia Flex](https://developer.nvidia.com/flex)
 
+- Screen space rendering
+  - [Screen Space Fluid Rendering with Curvature Flow](https://www.cs.rug.nl/~roe/publications/fluidcurvature.pdf)
+  - [Narrow-Band Screen-Space Fluid Rendering](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14510)
+
 - Rigid body
+  - [2001 Physically Based Modeling: Principles and Practice](http://www.cs.cmu.edu/~baraff/sigcourse/)
   - [Stable, Robust, and Versatile Multibody Dynamics Animation](http://image.diku.dk/kenny/download/erleben.05.thesis.pdf)
-    - Basics of Rigid body, 
+    - Basics of Rigid body simulation, Sec 2, 4
+  - [Bullet](https://github.com/bulletphysics/bullet3)
 
 ### Reference
 - http://www.physicsbasedanimation.com/
