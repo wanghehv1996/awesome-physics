@@ -110,3 +110,13 @@ Numerical Solvers
 
 ### Reference
 - http://www.physicsbasedanimation.com/
+
+
+### Read more papers
+
+[Paper reading](./paper_reading.md)
+
+
+### Write your paper
+
+[Paper writing](./paper_writing.md)
