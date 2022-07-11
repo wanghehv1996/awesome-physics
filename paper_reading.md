@@ -46,12 +46,15 @@ This symposium includes [webminar](https://games-cn.org/previouswebinar-ppt/) an
 - [Disney Research Studios](https://studios.disneyresearch.com/publications/)
   - Character Animation, Rendering, 
 - [ETH CGL(Computer Graphics Laboratory)](https://cgl.ethz.ch/publications/papers/papers.php)
+  - [Barbara Solenthaler](https://people.inf.ethz.ch/~sobarbar/)
+  - 
   - Neural Rendering, Learning-based Smoke
 - [UCLA MultiPLES Lab(Multi-Physics Lagrangian-Eulerian Simulations Laboratory](https://multiples-lab.github.io/publication/)
   - [UCLA Joseph M. Teran](https://www.math.ucla.edu/~jteran/)
   - MPM Simulation, IPC(Incremental Potential Contact)
 - [EPFL GCL](https://lgg.epfl.ch/publications.php) [(Geometric EComputing Laboratory)](https://lgg.epfl.ch/index.php)
   - Structural Optimization
+  - Projective Dynamics: Fusing Constraint Projections for Fast Simulation
 - [Stanford Doug L. James](http://graphics.stanford.edu/~djames/publications/)
   - Sound, Weaving, Deformable
 - [Stanford Ron Fedkiw](http://physbam.stanford.edu/~fedkiw/)
@@ -92,6 +95,12 @@ This symposium includes [webminar](https://games-cn.org/previouswebinar-ppt/) an
   - High-performance Simulation, Cloth, 
 - [Tiantian Liu](https://tiantianliu.cn/)
   - Deformable
+- [UCSD Albert Chern](https://cseweb.ucsd.edu/~alchern/projects/)
+  - Vortical Flow
+- NVIDIA [Miles Macklin](http://blog.mmacklin.com/publications/) & [Matthias Müller](https://matthias-research.github.io/pages/publications/publications.html)
+  - PBD
+- [RWTH-AACHEN Jan Bender](https://animation.rwth-aachen.de/publications/)
+  - SPH
 
 
 ### Rendering
