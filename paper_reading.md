@@ -79,6 +79,8 @@ This symposium includes [webminar](https://games-cn.org/previouswebinar-ppt/) an
   - Magnetic Simulation, Motion
 - [Yale Theodore Kim](https://www.tkim.graphics/)
   - Deformable, Fluid
+- [UWaterloo Christopher Batty](https://cs.uwaterloo.ca/~c2batty/)
+  - Unified Simulation(Monolith), Grid Geometry, Viscosity, Multi-scale, Interaction
 - [TUM Nils Thuerey](https://ge.in.tum.de/publications/)
   - Learning-based Fluid, Differentiable Smoke
 - [Uni-Freiburg](https://cg.informatik.uni-freiburg.de/publications.htm)
@@ -101,6 +103,10 @@ This symposium includes [webminar](https://games-cn.org/previouswebinar-ppt/) an
   - PBD
 - [RWTH-AACHEN Jan Bender](https://animation.rwth-aachen.de/publications/)
   - SPH
+- [Ryoichi Ando](https://ryichando.graphics/)
+  - Grid-based Fluid, Grid Geometry
+- [Kenny Erleben](https://iphys.wordpress.com/)
+  - Rigidbody
 
 
 ### Rendering
